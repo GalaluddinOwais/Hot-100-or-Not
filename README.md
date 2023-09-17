@@ -43,13 +43,13 @@ python app.py
 #### [Google drive link](https://drive.google.com/file/d/181MsBU224xY8jPepnMWDMKwGZwOOnzo6/view?usp=sharing)
 
 
+![image](https://github.com/GalaluddinOwais/Hot-100-or-Not/assets/111979327/c0c8a700-cdb5-4faf-ad01-09e806963960)
 
 ![image](https://github.com/GalaluddinOwais/Hot-100-or-Not/assets/111979327/37f370fe-e48f-4a54-9de8-e850df766e8b)
 
 ![image](https://github.com/GalaluddinOwais/Hot-100-or-Not/assets/111979327/111e811c-a6de-476d-97a4-af659f7adc0b)
 
 ![image](https://github.com/GalaluddinOwais/Hot-100-or-Not/assets/111979327/e1547fde-26d1-4d88-8e57-ce4380c01021)
-
 
 ![image](https://github.com/GalaluddinOwais/Hot-100-or-Not/assets/111979327/781f1026-d6bb-4480-9f03-da055be396a9)
 
@@ -61,6 +61,5 @@ python app.py
 
 ![image](https://github.com/GalaluddinOwais/Hot-100-or-Not/assets/111979327/46ca09f4-a913-4a4d-9dfa-dbfedef6e2a3)
 
-
-
+![aaaaa (1)](https://github.com/GalaluddinOwais/Hot-100-or-Not/assets/111979327/3a5f2cb5-ceaf-422d-b85e-6eb7905467dc)
 

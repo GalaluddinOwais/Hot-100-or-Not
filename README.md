@@ -40,7 +40,27 @@ python app.py
 * Access the application through web browser by entering the address you will be provided
 
 # Demonstration
+#### [Google drive link](https://drive.google.com/file/d/181MsBU224xY8jPepnMWDMKwGZwOOnzo6/view?usp=sharing)
 
-#### [Google drive link](https://drive.google.com/file/d/1TQSPZYRlYxPVGmBk8n_qeH7sMHErnzCm/view?usp=share_link)
+
+
+![image](https://github.com/GalaluddinOwais/Hot-100-or-Not/assets/111979327/37f370fe-e48f-4a54-9de8-e850df766e8b)
+
+![image](https://github.com/GalaluddinOwais/Hot-100-or-Not/assets/111979327/111e811c-a6de-476d-97a4-af659f7adc0b)
+
+![image](https://github.com/GalaluddinOwais/Hot-100-or-Not/assets/111979327/e1547fde-26d1-4d88-8e57-ce4380c01021)
+
+
+![image](https://github.com/GalaluddinOwais/Hot-100-or-Not/assets/111979327/781f1026-d6bb-4480-9f03-da055be396a9)
+
+![image](https://github.com/GalaluddinOwais/Hot-100-or-Not/assets/111979327/4ef80f30-85df-49bb-9488-f513a24aab9b)
+
+![image](https://github.com/GalaluddinOwais/Hot-100-or-Not/assets/111979327/a146f64b-ebac-4742-9b3b-32ece1fd7688)
+
+![image](https://github.com/GalaluddinOwais/Hot-100-or-Not/assets/111979327/93dabc5a-2059-4769-bf51-00102c645018)
+
+![image](https://github.com/GalaluddinOwais/Hot-100-or-Not/assets/111979327/46ca09f4-a913-4a4d-9dfa-dbfedef6e2a3)
+
+
 
 

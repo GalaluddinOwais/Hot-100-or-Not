@@ -6,7 +6,7 @@
 * Downloaded each song's audio, extracted the chorus section, and converted it into various statistical features about the chorus audio descriptors, to finally obtain the dataset
 * Visualized the dataset for exploratory data analysis to identify any necessary preprocessing steps
 * Applied the preprocessing steps to the dataset to observe how each handles the data
-* Tested multiple models to gain insights into the best-performing one for the dataset, which appeared to be the Random Forest model, then fine-tuned it maximize the F1 score, resulting in an F1 score of 60% and an accuracy of 85%
+* Tested multiple models to gain insights into the best-performing one for the dataset, which appeared to be the Random Forest model, then fine-tuned it to maximize the F1 score, resulting in an F1 score of 60% and an accuracy of 85%
 * Utilized raw data to construct a trained pipeline that incorporates predetermined preprocessing steps and the best found model. to provide prediction given a raw song data sample
 * Implemented a specific module (library) with necessary functions to fetch songs from different given sources, extract their chorus statistical audio features, and provide predictions using the pipeline
 * Implemented the back-end functionalities using the module, to introduce the following features:

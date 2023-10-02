@@ -2,12 +2,12 @@
 #### This project is a full-stack machine learning project that introduces a web application to predict whether a given song will make it onto the Hot 100 songs chart in its release year, primarily by checking its repeated chorus.
 
 # Key Achievements
-* Collected names of songs that reached the Hot 100 chart and songs that did not for the same artists, ensuring a real-world distribution of both categories
+* Compiled a list of song names that made it onto the hot 100 chart in their release year, and a list of song names that did not make it for the same artists, ensuring a real-world distribution of both categories
 * Downloaded each song's audio, extracted the chorus section, and converted it into various statistical features about the chorus audio descriptors, to finally obtain the dataset
-* Visualized the dataset for exploratory data analysis to identify any necessary preprocessing steps
+* Visualized the dataset for exploratory data analysis to identify any necessary preprocessing steps, which were identified to be normal quantile transformation, standard scaling, and PCA transformation
 * Applied the preprocessing steps to the dataset to observe how each handles the data
-* Tested multiple models to gain insights into the best-performing one for the dataset, which appeared to be the Random Forest model, then fine-tuned it to maximize the F1 score, resulting in an F1 score of 60% and an accuracy of 85%
-* Utilized raw data to construct a trained pipeline that incorporated predetermined preprocessing steps and the best model found, to provide predictions given raw song data samples
+* Selected f1-score as the performance metric to maximize while testing multiple models, driven by the unbalanced dataset and the business goals, in order to gain insights into the best-performing model for the dataset, which appeared to be the Random Forest model, then fine-tuned it resulting in an F1 score of 60% and an accuracy of 85%
+* Utilized raw data to construct a trained pipeline that incorporated preidentified preprocessing steps and the best model found, to provide predictions given raw song data samples
 * Implemented a specific module (library) with the necessary functions to fetch songs from different given sources, extract their chorus statistical audio features, and provide predictions using the pipeline
 * Implemented the back-end functionalities using the module, to introduce the following features:
   * Providing predictions for songs given their YouTube links

@@ -1,5 +1,5 @@
 # About the project
-#### This project is a full-stack machine learning project that introduces a web application to predict whether a given song will make it onto the Hot 100 songs chart in its release year, primarily by checking its repeated chorus.
+This project is a full-stack machine learning project that introduces a web application to predict whether a given song will make it onto the Hot 100 songs chart in its release year, primarily by checking its repeated chorus.
 
 # Key Achievements
 * Compiled a list of song names that made it onto the hot 100 chart in their release year, and a list of song names that did not make it for the same artists, ensuring a real-world distribution of both categories

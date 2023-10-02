@@ -19,17 +19,17 @@
 
 # Requirements
 `python 3.9`
-`pandas`
-`numpy`
-`Flask`
-`librosa`
-`scipy`
-`yt-dlp`
-`YoutubeSearch`
-`spotipy`
+`pandas 1.5.3`
+`numpy  1.23.1`
+`Flask  2.2.5`
+`librosa 0.10.0.post2`
+`scipy  1.11.1`
+`yt-dlp 2023.7.6`
+`youtube-search 2.1.2`
+`spotipy 2.23.0`
 `datetime`
 `scikit-learn 1.2.2`
-`pychorus`
+`pychorus  0.1`
 `pickle`
 
 # Execution
